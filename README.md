@@ -18,6 +18,11 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-original.svg">
 </div>
 
+##
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavomendess&show_icons=true)
+
+##
 
 <!--
 **otavio-paganotti/otavio-paganotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
