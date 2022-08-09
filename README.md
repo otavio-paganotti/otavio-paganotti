@@ -20,7 +20,7 @@
 
 ##
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavomendess&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=otavio-paganotti&show_icons=true)
 
 ##
 
