@@ -1,4 +1,8 @@
-Hi 👋, I'm **Otávio Paganotti**, a software engineer with skills in User Interface (UI) Design and Front-End and Back-End Development. With advanced knowledge in design patterns, tools and techniques such as Storybook, Figma and CSS/JS Framework creation, as well as experience in Typescript, Vue.js and Node.js, I am capable of creating functional and attractive solutions to improve the user experience. I also have skills in Testing, Scalability and Software Architecture, as well as in Project Management, using agile methodologies and tools such as Github, Azure Devops and Jira. With interpersonal skills such as leadership, teaching and teamwork, I always aim to deliver high-quality results.
+Hi 👋, I'm **Otávio Paganotti**, a software engineer with skills in User Interface (UI) Design and Front-End and Back-End Development. With advanced knowledge in design patterns, tools and techniques such as Storybook, Figma and CSS/JS Framework creation, as well as experience in Typescript, Vue.js and Node.js.
+
+I am capable of creating functional and attractive solutions to improve the user experience.
+
+I also have skills in Testing, Scalability and Software Architecture, as well as in Project Management, using agile methodologies and tools such as Github, Azure Devops and Jira. With interpersonal skills such as leadership, teaching and teamwork, I always aim to deliver high-quality results.
 
 ##
 
